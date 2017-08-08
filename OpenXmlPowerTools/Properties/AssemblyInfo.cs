@@ -9,9 +9,9 @@ using System.Security;
 [assembly: AssemblyTitle("OpenXmlPowerTools")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("SDL")]
 [assembly: AssemblyProduct("OpenXmlPowerTools")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright © SDL 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -36,4 +36,4 @@ using System.Security;
 [assembly: AssemblyVersion("4.5.3.0")]
 [assembly: AssemblyFileVersion("4.5.3.0")]
 [assembly: SecurityRules(SecurityRuleSet.Level1)]
-[assembly: InternalsVisibleTo("OpenXmlPowerTools.Tests")]
+[assembly: InternalsVisibleTo("OpenXmlPowerTools.Tests, PublicKey=002400000480000094000000060200000024000052534131000400000100010013f795cf308f1cb7b368d9dec675d92d677449fe6849aca68a1400e21445c2d01e7e5994b9f2b01306a5208c750e9f7beedc3efac831f003f9a55b391048e7ad665a4c5a8efafc09b636db82394a47285ea8aef41109c693801d167945027381708f96533cc31fc4de1e12bfd440c6c06d0bd712629b1906336e69993bc084c0")]
