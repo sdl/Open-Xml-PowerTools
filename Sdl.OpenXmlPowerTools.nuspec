@@ -9,6 +9,14 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The Open XML PowerTools provides guidance and example code for programming with Open XML Documents (DOCX, XLSX, and PPTX). It is based on, and extends the functionality of the Open XML SDK.</description>
         <copyright>Copyright © 2017 SDL. All rights reserved.</copyright>
+        <dependencies>
+            <group targetFramework=".NETFramework4.5">
+                <dependency id="DocumentFormat.OpenXml" version="2.7.2" />
+            </group>
+        </dependencies>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="System.Management.Automation" />
+        </frameworkAssemblies>
     </metadata>
     <files>
         <file src="OpenXmlPowerTools\bin\Release\OpenXmlPowerTools.dll" target="lib\net45\OpenXmlPowerTools.dll" />
