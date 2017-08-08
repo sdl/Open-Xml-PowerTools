@@ -30,3 +30,5 @@ TestResults/
 # NuGet Packages
 *.nupkg
 **/packages/*
+
+.vs

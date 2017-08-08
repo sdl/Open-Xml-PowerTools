@@ -12,6 +12,5 @@
     </metadata>
     <files>
         <file src="OpenXmlPowerTools\bin\Release\OpenXmlPowerTools.dll" target="lib\net45\OpenXmlPowerTools.dll" />
-        <file src="OpenXmlPowerTools\bin\Release\OpenXmlPowerTools.xml" target="lib\net45\OpenXmlPowerTools.xml" />
     </files>
 </package>
